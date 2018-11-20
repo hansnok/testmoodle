@@ -1,0 +1,2 @@
+# testmoodle
+plugin local test
